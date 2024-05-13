@@ -14,6 +14,7 @@
 		DC42E0492BF2976400F7E739 /* ApellidoSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DC42E0472BF2976400F7E739 /* ApellidoSoundBoard.xcdatamodeld */; };
 		DC42E04B2BF2976600F7E739 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC42E04A2BF2976600F7E739 /* Assets.xcassets */; };
 		DC42E04E2BF2976600F7E739 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC42E04C2BF2976600F7E739 /* LaunchScreen.storyboard */; };
+		DC42E0562BF2A08500F7E739 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC42E0552BF2A08500F7E739 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DC42E04A2BF2976600F7E739 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC42E04D2BF2976600F7E739 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC42E04F2BF2976600F7E739 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC42E0552BF2A08500F7E739 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				DC42E04C2BF2976600F7E739 /* LaunchScreen.storyboard */,
 				DC42E04F2BF2976600F7E739 /* Info.plist */,
 				DC42E0472BF2976400F7E739 /* ApellidoSoundBoard.xcdatamodeld */,
+				DC42E0552BF2A08500F7E739 /* SoundViewController.swift */,
 			);
 			path = ApellidoSoundBoard;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				DC42E03F2BF2976400F7E739 /* AppDelegate.swift in Sources */,
 				DC42E0492BF2976400F7E739 /* ApellidoSoundBoard.xcdatamodeld in Sources */,
 				DC42E0412BF2976400F7E739 /* SceneDelegate.swift in Sources */,
+				DC42E0562BF2A08500F7E739 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
